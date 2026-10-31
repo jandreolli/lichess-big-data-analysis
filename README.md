@@ -1,6 +1,6 @@
 # ♟️ Lichess Spark Analysis
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/lichess-spark-analysis/blob/main/chess_game_analysis.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jandreolli/lichess-big-data-analysis/blob/main/chess_game_analysis.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5.7-E25A1C?logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-3.5.7-orange)
@@ -74,7 +74,7 @@ The notebook includes an environment selector that automatically configures Spar
 
 Click the badge at the top of this README:
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/lichess-spark-analysis/blob/main/chess_game_analysis.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jandreolli/lichess-big-data-analysis/blob/main/chess_game_analysis.ipynb)
 
 **Step 2 – Select the environment**
 
